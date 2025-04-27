@@ -1,0 +1,22 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: niharputhink
+theme: PaperMod
+
+Params:
+    defaultTheme: light
+    Author:
+        Name: Nihar Puthin
+    hideAuthor: true
+
+    homeInfoParams:
+        Title: Nihar Puthin
+        Content: A place for me to dump my thoughts and showcase my work.
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/Panda-Boi"
+        - name: "resume"
+          url: "resume.pdf"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/nihar-puthin/"
