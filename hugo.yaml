@@ -4,19 +4,21 @@ title: niharputhink
 theme: PaperMod
 
 Params:
-    defaultTheme: light
-    Author:
-        Name: Nihar Puthin
-    hideAuthor: true
+  defaultTheme: light
+  Author:
+    Name: Nihar Puthin
+  hideAuthor: true
+  ShowBreadCrumbs: false
 
-    homeInfoParams:
-        Title: Nihar Puthin
-        Content: A place for me to dump my thoughts and showcase my work.
+  homeInfoParams:
+    Title: Nihar Puthin
+    Content: A place for me to dump my thoughts and showcase my work.
 
-    socialIcons:
-        - name: "github"
-          url: "https://github.com/Panda-Boi"
-        - name: "resume"
-          url: "resume.pdf"
-        - name: "linkedin"
-          url: "https://www.linkedin.com/in/nihar-puthin/"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/Panda-Boi"
+    - name: "resume"
+      url: "resume.pdf"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/nihar-puthin/"
