@@ -19,6 +19,6 @@ Params:
     - name: "github"
       url: "https://github.com/Panda-Boi"
     - name: "resume"
-      url: "resume.pdf"
+      url: "https://niharputhink.com/resume.pdf"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/nihar-puthin/"
